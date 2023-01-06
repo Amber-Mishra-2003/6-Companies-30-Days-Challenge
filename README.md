@@ -4,3 +4,9 @@ In this repo I am uploading my solutions for [6Companies30Days](https://www.yout
 <p>1. Day 1-5 :</p>
 
 Company Name : [Microsoft](https://github.com/Amber-Mishra-2003/6-Companies-30-Days-Challenge/tree/main/Day%201-5%20%5BMicorsoft%5D)
+
+
+
+<p>2. Day 6-10 :</p>
+
+Company Name : Goldman Sachs
