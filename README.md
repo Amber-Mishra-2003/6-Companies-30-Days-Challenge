@@ -14,4 +14,4 @@ Company Name : [Goldman Sachs](https://github.com/Amber-Mishra-2003/6-Companies-
 
 <p>3. Day 10-15 :</p>
 
-Company Name : Adobe
+Company Name : [Adobe](https://github.com/Amber-Mishra-2003/6-Companies-30-Days-Challenge/tree/main/Day%2010-15%20%5BAdobe%5D)
