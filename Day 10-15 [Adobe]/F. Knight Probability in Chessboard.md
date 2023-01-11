@@ -8,6 +8,8 @@ Problem :- On an n x n chessboard, a knight starts at the cell (row, column) and
 A chess knight has eight possible moves it can make, as illustrated below. Each move is two cells in a cardinal direction, then one cell in an orthogonal direction.
 </h3>
 
+<img src="https://assets.leetcode.com/uploads/2018/10/12/knight.png">
+
 Solution Lnk :- [Link](https://leetcode.com/problems/knight-probability-in-chessboard/submissions/875911227/)
 
 **Solution :-**
