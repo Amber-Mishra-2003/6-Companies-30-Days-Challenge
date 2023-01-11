@@ -1,0 +1,82 @@
+# Stock Price Fluctuation 
+
+Problem Link :- [Link]()
+
+<h3>
+Problem :- You are given a stream of records about a particular stock. Each record contains a timestamp and the corresponding price of the stock at that timestamp.
+
+Unfortunately due to the volatile nature of the stock market, the records do not come in order. Even worse, some records may be incorrect. Another record with the same timestamp may appear later in the stream correcting the price of the previous wrong record.
+
+Design an algorithm that:
+
+  * Updates the price of the stock at a particular timestamp, correcting the price from any previous records at the timestamp.
+  
+  * Finds the latest price of the stock based on the current records. The latest price is the price at the latest timestamp recorded.
+  
+  * Finds the maximum price the stock has been based on the current records.
+  
+  * Finds the minimum price the stock has been based on the current records.
+  
+Implement the StockPrice class:
+
+  * StockPrice() Initializes the object with no price records.
+  
+  * void update(int timestamp, int price) Updates the price of the stock at the given timestamp.
+  
+  * int current() Returns the latest price of the stock.
+  
+  * int maximum() Returns the maximum price of the stock.
+  
+  * int minimum() Returns the minimum price of the stock.
+  
+</h3>
+
+Solution Link :- [Link](https://leetcode.com/problems/stock-price-fluctuation/submissions/875923624/)
+
+**Solution :-**
+```
+class StockPrice {
+public:
+    map<int , int >mp;
+    multiset<int>st;
+    StockPrice() {
+        
+    }
+    
+    void update(int timestamp, int price) {
+        if(mp.find(timestamp) == mp.end()){
+            mp[timestamp]  = price;
+            st.insert(price);
+        }
+        else{
+            int val = mp[timestamp];
+            auto it = st.find(val);
+            if(it != st.end()){
+                st.erase(it);
+            }
+            mp[timestamp]  = price;
+            st.insert(price);
+        }
+    }
+    
+    int current() {
+      return mp.rbegin()->second;
+    }
+    
+    int maximum() {
+        if(st.size()){
+           return *st.rbegin();
+        }
+        return 0;
+    }
+    
+    int minimum() {
+        if(st.size()){
+            return *st.begin();
+        }
+        return 0;
+    }
+};
+
+
+```
