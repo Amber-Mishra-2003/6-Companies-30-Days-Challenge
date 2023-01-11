@@ -10,3 +10,8 @@ Company Name : [Microsoft](https://github.com/Amber-Mishra-2003/6-Companies-30-D
 <p>2. Day 6-10 :</p>
 
 Company Name : [Goldman Sachs](https://github.com/Amber-Mishra-2003/6-Companies-30-Days-Challenge/tree/main/Day%206-10%20%5BGoldman%20Sachs%5D)
+
+
+<p>3. Day 10-15 :</p>
+
+Company Name : Adobe
