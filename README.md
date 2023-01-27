@@ -25,3 +25,8 @@ Company Name : [Flipkart](https://github.com/Amber-Mishra-2003/6-Companies-30-Da
 
 Company Name : [Google](https://github.com/Amber-Mishra-2003/6-Companies-30-Days-Challenge/tree/main/Day%2020-25%20%5BGoogle%5D)
 
+<p>6. Day 25-30 :</p>
+
+Company Name : [Amazon](https://github.com/Amber-Mishra-2003/6-Companies-30-Days-Challenge/tree/main/Day%2025-30%20%5BAmazon%5D)
+
+
