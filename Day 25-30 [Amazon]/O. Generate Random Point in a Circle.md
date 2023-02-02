@@ -12,7 +12,6 @@ Implement the Solution class:
   * randPoint() returns a random point inside the circle. A point on the circumference of the circle is considered to be in the circle. The answer is returned as an array [x, y].
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/generate-random-point-in-a-circle/submissions/886409060/)
 
 **Solution :-**
 ```
