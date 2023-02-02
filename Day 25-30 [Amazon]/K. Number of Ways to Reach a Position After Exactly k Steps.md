@@ -14,7 +14,6 @@ Note that the number line includes negative integers.
   
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/submissions/886401520/)
 
 **Solution :-**
 ```
