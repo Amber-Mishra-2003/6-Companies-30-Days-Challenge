@@ -15,7 +15,6 @@ Note that the min-product should be maximized before performing the modulo opera
 A subarray is a contiguous part of an array.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/maximum-subarray-min-product/submissions/886374068/)
 
 **Solution :-**
 ```
