@@ -10,7 +10,6 @@ A subsequence of a string is a new string generated from the original string wit
   * For example, "ace" is a subsequence of "abcde". 
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/number-of-matching-subsequences/submissions/886399491/)
 
 **Solution :-**
 ```
