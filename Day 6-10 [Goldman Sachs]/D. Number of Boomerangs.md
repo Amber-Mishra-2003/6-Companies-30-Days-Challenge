@@ -8,7 +8,6 @@ Problem :-You are given n points in the plane that are all distinct, where point
 Return the number of boomerangs. 
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/number-of-boomerangs/submissions/872468798/)
 
 **Solution :-**
 ```
