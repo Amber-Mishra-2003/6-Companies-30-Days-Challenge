@@ -14,7 +14,6 @@ Two arrays nums1 and nums2 are said to be distinct if:
 A subarray is defined as a non-empty contiguous sequence of elements in an array.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/k-divisible-elements-subarrays/submissions/882707140/)
 
 **Solution :-**
 ```
