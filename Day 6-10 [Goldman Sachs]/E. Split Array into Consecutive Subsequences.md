@@ -14,7 +14,6 @@ Return true if you can split nums according to the above conditions, or false ot
 A subsequence of an array is a new array that is formed from the original array by deleting some (can be none) of the elements without disturbing the relative positions of the remaining elements. (i.e., [1,3,5] is a subsequence of [1,2,3,4,5] while [1,3,2] is not).
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/split-array-into-consecutive-subsequences/submissions/872472355/)
 
 **Solution :-**
 ```
