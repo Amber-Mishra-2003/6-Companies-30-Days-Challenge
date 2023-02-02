@@ -8,7 +8,6 @@ Return the number of substrings containing at least one occurrence of all these 
   
 </h3>
 
-Solution Link:- [Link](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/submissions/869963382/)
 
 **Solution :-**
 ```
