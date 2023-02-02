@@ -12,7 +12,6 @@ Problem :- Given a m x n matrix mat and an integer k, return a matrix answer whe
   * (r, c) is a valid position in the matrix.
 </h3>
   
-Solution Link :- [Link](https://leetcode.com/problems/matrix-block-sum/submissions/882712232/)
 
 **Solution :-**
 ```
