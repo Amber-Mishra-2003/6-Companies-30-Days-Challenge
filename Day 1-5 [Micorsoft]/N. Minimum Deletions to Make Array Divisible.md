@@ -13,7 +13,6 @@ Note that an integer x divides y if y % x == 0.
   
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/submissions/869960602/)
 
 **Solution :-**
 
