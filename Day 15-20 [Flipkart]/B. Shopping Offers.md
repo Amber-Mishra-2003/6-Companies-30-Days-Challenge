@@ -12,7 +12,6 @@ You are also given an array special where special[i] is of size n + 1 where spec
 Return the lowest price you have to pay for exactly certain items as given, where you could make optimal use of the special offers. You are not allowed to buy more items than you want, even if that would lower the overall price. You could use any of the special offers as many times as you want.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/shopping-offers/submissions/879265296/)
 
 **Solution :-**
 ```
