@@ -12,7 +12,6 @@ You are given an array of strings transaction where transactions[i] consists of 
 Return a list of transactions that are possibly invalid. You may return the answer in any order.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/invalid-transactions/submissions/872506125/)
 
 **Solution :-**
 ```
