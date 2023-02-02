@@ -10,7 +10,6 @@ Return the shortest such subarray and output its length.
  
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/submissions/875925223/)
 
 **Solution :-**
 ```
