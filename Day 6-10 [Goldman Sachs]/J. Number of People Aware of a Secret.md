@@ -10,7 +10,6 @@ You are given an integer delay, which means that each person will share the secr
 Given an integer n, return the number of people who know the secret at the end of day n. Since the answer may be very large, return it modulo 109 + 7.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/number-of-people-aware-of-a-secret/submissions/872501655/)
 
 **Solution :-**
 ```
