@@ -8,7 +8,6 @@ Problem :-There are n cities connected by some number of flights. You are given 
 You are also given three integers src, dst, and k, return the cheapest price from src to dst with at most k stops. If there is no such route, return -1. 
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/cheapest-flights-within-k-stops/submissions/886301646/)
 
 **Solution :-**
 ```
