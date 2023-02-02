@@ -8,7 +8,7 @@ Problem : -Given an integer array nums, you need to find one continuous subarray
 Return the shortest such subarray and output its length.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/submissions/869946237/)
+
 
 **Solution :-**
 
