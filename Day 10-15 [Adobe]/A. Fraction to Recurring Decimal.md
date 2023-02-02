@@ -12,7 +12,6 @@ If multiple answers are possible, return any of them.
 It is guaranteed that the length of the answer string is less than 104 for all the given inputs.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/fraction-to-recurring-decimal/submissions/875900111/)
 
 **Solution :-**
 ```
