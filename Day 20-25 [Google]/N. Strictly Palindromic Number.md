@@ -10,7 +10,6 @@ Given an integer n, return true if n is strictly palindromic and false otherwise
 A string is palindromic if it reads the same forward and backward.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/strictly-palindromic-number/submissions/882716126/)
 
 **Solution :-**
 ```
