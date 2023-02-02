@@ -10,7 +10,6 @@ A good triplet is a set of 3 distinct values which are present in increasing ord
 Return the total number of good triplets.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/count-good-triplets-in-an-array/submissions/872488100/)
 
 **Solution :-**
 ```
