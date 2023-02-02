@@ -24,7 +24,6 @@ You cannot access the mountain array directly. You may only access the array usi
 Submissions making more than 100 calls to MountainArray.get will be judged Wrong Answer. Also, any solutions that attempt to circumvent the judge will result in disqualification.
 </h3>
 
-Solution Link:- [Link](https://leetcode.com/problems/find-in-mountain-array/submissions/879290225/)
 
 **Solution :-**
 ```
