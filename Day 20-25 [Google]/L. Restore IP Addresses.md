@@ -12,7 +12,6 @@ Given a string s containing only digits, return all possible valid IP addresses 
   
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/restore-ip-addresses/submissions/882713392/)
 
 **Solution :-**
 ```
