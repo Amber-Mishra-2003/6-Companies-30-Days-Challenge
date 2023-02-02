@@ -14,7 +14,6 @@ Return the number of pairs that satisfy the conditions.
 </h3>
 
 
-Solution Link :- [Link](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/submissions/869941386/)
 
 **Solution :-**
 
