@@ -12,7 +12,6 @@ After doing so, return the head of the final linked list.  You may return any su
 
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/submissions/879281423/)
 
 **Solution :-**
 ```
