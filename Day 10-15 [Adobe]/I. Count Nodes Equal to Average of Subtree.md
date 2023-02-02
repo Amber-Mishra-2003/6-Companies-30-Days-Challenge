@@ -13,7 +13,6 @@ Note:
  
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/submissions/875918374/)
 
 **Solution :-**
 ```
