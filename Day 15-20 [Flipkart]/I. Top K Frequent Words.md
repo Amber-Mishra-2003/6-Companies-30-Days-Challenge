@@ -10,7 +10,6 @@ Return the answer sorted by the frequency from highest to lowest. Sort the words
  
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/top-k-frequent-words/submissions/879309219/)
 
 **Solution :-**
 ```
