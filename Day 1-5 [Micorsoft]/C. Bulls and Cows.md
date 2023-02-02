@@ -13,7 +13,6 @@ Given the secret number secret and your friend's guess guess, return the hint fo
 The hint should be formatted as "xAyB", where x is the number of bulls and y is the number of cows. Note that both secret and guess may contain duplicate digits.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/bulls-and-cows/submissions/869905618/)
 
 
 **Solution : -**
