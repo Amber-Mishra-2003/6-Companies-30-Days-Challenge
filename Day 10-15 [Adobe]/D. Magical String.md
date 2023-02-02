@@ -12,7 +12,6 @@ The first few elements of s is s = "1221121221221121122……". If we group the 
 Given an integer n, return the number of 1's in the first n number in the magical string s.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/magical-string/submissions/875907469/)
 
 **Solution :-**
 ```
