@@ -6,7 +6,6 @@ Problem Link :- [Link](https://leetcode.com/problems/all-elements-in-two-binary-
 Problem :-Given two binary search trees root1 and root2, return a list containing all the integers from both trees sorted in ascending order. 
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/submissions/872508537/)
 
 **Solution :-**
 ```
