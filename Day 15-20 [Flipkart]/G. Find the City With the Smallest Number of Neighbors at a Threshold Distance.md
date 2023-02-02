@@ -12,7 +12,6 @@ Notice that the distance of a path connecting cities i and j is equal to the sum
   
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/submissions/879295982/)
 
 **Soltuion :-**
 ```
