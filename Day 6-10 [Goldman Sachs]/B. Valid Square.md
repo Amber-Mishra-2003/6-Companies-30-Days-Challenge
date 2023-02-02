@@ -11,7 +11,6 @@ A valid square has four equal sides with positive length and four equal angles (
   
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/valid-square/submissions/872462552/)
 
 **Solution :-**
 ```
