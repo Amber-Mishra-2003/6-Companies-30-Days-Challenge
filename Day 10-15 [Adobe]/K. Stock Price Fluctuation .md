@@ -31,7 +31,6 @@ Implement the StockPrice class:
   
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/stock-price-fluctuation/submissions/875923624/)
 
 **Solution :-**
 ```
