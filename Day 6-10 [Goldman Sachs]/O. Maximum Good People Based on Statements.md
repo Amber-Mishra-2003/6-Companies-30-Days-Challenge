@@ -19,7 +19,6 @@ You are given a 0-indexed 2D integer array statements of size n x n that represe
 Additionally, no person ever makes a statement about themselves. Formally, we have that statements[i][i] = 2 for all 0 <= i < n.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/maximum-good-people-based-on-statements/submissions/872518219/)
 
 **Solution :-**
 ```
