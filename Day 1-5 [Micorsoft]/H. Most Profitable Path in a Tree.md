@@ -26,7 +26,6 @@ Return the maximum net income Alice can have if she travels towards the optimal 
 
  </h3> 
   
-Solution Link :- [Link](https://leetcode.com/problems/most-profitable-path-in-a-tree/submissions/869935236/)
 
 
 **Solution :-**
