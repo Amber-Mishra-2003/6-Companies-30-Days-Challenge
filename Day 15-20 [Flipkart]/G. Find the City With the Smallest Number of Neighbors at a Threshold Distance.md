@@ -13,7 +13,7 @@ Notice that the distance of a path connecting cities i and j is equal to the sum
 </h3>
 
 
-**Soltuion :-**
+**Solution :-**
 ```
 class Solution {
 public:
