@@ -8,7 +8,6 @@ Problem :- You are given an integer array cards where cards[i] represents the va
 Return the minimum number of consecutive cards you have to pick up to have a pair of matching cards among the picked cards. If it is impossible to have matching cards, return -1.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/submissions/872474763/)
 
 **Solution :-**
 ```
