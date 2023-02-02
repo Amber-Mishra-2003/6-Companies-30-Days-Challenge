@@ -8,7 +8,6 @@ Problem :- Given a 2D grid consists of 0s (land) and 1s (water).  An island is a
 Return the number of closed islands.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/number-of-closed-islands/submissions/882704700/)
 
 **Solution :-**
 ```
