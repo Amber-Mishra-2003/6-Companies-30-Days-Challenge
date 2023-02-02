@@ -18,7 +18,6 @@ Additionally, no person ever makes a statement about themselves. Formally, we ha
 Return the maximum number of people who can be good based on the statements made by the n people.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/maximum-good-people-based-on-statements/submissions/882700646/)
 
 **Solution :-**
 ```
