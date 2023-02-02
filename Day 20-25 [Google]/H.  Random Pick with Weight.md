@@ -11,7 +11,6 @@ For example, if w = [1, 3], the probability of picking index 0 is 1 / (1 + 3) = 
   
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/random-pick-with-weight/submissions/882708545/)
 
 **Solution :-**
 ```
