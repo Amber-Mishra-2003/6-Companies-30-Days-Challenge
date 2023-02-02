@@ -16,7 +16,6 @@ You want to collect as much fruit as possible. However, the owner has some stric
 Given the integer array fruits, return the maximum number of fruits you can pick.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/fruit-into-baskets/submissions/882703650/)
 
 **Solution :-**
 
