@@ -10,7 +10,7 @@ Problem :- You are given an array nums that consists of non-negative integers. L
 Return the number of nice pairs of indices. Since that number can be too large, return it modulo 109 + 7.
 </h3>
 
-Solution Link :- [Link]()
+
 
 **Solution :-**
 ```
