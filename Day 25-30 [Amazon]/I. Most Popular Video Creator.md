@@ -14,7 +14,6 @@ The popularity of a creator is the sum of the number of views on all of the crea
 Return a 2D array of strings answer where answer[i] = [creatori, idi] means that creatori has the highest popularity and idi is the id of their most popular video. The answer can be returned in any order.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/most-popular-video-creator/submissions/886395669/)
 
 **Solution :-**
 ```
