@@ -8,7 +8,6 @@ Problem :- You wrote down many positive integers in a string called num. However
 Return the number of possible lists of integers that you could have written down to get the string num. Since the answer may be large, return it modulo 109 + 7.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/number-of-ways-to-separate-numbers/submissions/879293951/)
 
 **Solution :-**
 ```
