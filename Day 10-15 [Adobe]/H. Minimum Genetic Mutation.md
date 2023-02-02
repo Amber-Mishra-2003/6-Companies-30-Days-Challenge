@@ -16,7 +16,6 @@ Given the two gene strings startGene and endGene and the gene bank bank, return 
 Note that the starting point is assumed to be valid, so it might not be included in the bank.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/minimum-genetic-mutation/submissions/875916386/)
 
 **Solution :-**
 ```
