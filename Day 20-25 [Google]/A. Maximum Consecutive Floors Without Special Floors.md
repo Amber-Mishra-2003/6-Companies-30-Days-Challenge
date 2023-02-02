@@ -12,7 +12,6 @@ Return the maximum number of consecutive floors without a special floor.
  
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/submissions/882699354/)
 
 **Solution :-**
 ```
