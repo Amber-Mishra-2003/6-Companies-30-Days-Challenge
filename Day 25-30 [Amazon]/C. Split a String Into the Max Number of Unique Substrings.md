@@ -10,7 +10,6 @@ You can split string s into any list of non-empty substrings, where the concaten
 A substring is a contiguous sequence of characters within a string.
 </h3>
 
-Solution Link:- [Link](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/submissions/886303847/)
 
 **Solution :-**
 ```
