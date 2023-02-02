@@ -10,7 +10,6 @@ Permute the characters of s so that they match the order that order was sorted. 
 Return any permutation of s that satisfies this property.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/custom-sort-string/submissions/879325199/)
 
 **Solution :-**
 ```
