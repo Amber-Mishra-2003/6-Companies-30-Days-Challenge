@@ -11,7 +11,6 @@ Return true if you can finish all courses. Otherwise, return false.
 </h3> 
 
 
-Solution Link :- [Link](https://leetcode.com/problems/course-schedule/submissions/869929464/)
 
 
 **Solution : -**
