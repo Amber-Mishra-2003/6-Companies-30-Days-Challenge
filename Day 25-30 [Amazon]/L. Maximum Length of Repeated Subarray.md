@@ -6,7 +6,6 @@ Problem Link :- [Link](https://leetcode.com/problems/maximum-length-of-repeated-
 Problem :- Given two integer arrays nums1 and nums2, return the maximum length of a subarray that appears in both arrays.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/maximum-length-of-repeated-subarray/submissions/886403843/)
 
 **Solution :-**
 ```
