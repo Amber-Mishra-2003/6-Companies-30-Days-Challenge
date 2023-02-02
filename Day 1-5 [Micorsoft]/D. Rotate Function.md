@@ -14,7 +14,7 @@ Problem:- You are given an integer array nums of length n.Assume arrk to be an a
 Return the maximum value of F(0), F(1), ..., F(n-1).The test cases are generated so that the answer fits in a 32-bit integer.
   </h3>
 
-Solution Link:- [Link](https://leetcode.com/problems/rotate-function/submissions/869911835/)
+
 
 
 **Solution : -**
