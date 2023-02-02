@@ -16,7 +16,6 @@ You are tasked with finding the optimal student-mentor pairings to maximize the 
 Given students and mentors, return the maximum compatibility score sum that can be achieved.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/maximum-compatibility-score-sum/submissions/882717511/)
 
 **Solution :-**
 ```
