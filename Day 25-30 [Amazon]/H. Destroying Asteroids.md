@@ -10,7 +10,6 @@ You can arrange for the planet to collide with the asteroids in any arbitrary or
 Return true if all asteroids can be destroyed. Otherwise, return false.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/destroying-asteroids/submissions/886390912/)
 
 **Solution :-**
 ```
