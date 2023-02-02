@@ -12,7 +12,6 @@ Two elements are considered adjacent if and only if they share a border.
 Your goal is to maximize the summation of the matrix's elements. Return the maximum sum of the matrix's elements using the operation mentioned above.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/maximum-matrix-sum/submissions/875920273/)
 
 **Solution :-**
 ```
