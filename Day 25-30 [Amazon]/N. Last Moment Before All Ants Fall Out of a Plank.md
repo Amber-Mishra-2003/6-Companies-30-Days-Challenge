@@ -12,7 +12,6 @@ When an ant reaches one end of the plank at a time t, it falls out of the plank 
 Given an integer n and two integer arrays left and right, the positions of the ants moving to the left and the right, return the moment when the last ant(s) fall out of the plank.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/submissions/886407497/)
 
 **Solution :-**
 ```
