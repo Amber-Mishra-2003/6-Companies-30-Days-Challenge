@@ -13,7 +13,7 @@ If there are multiple solutions, return any of them.
   
 </h3>
 
-Solution Link : - [Link](https://leetcode.com/problems/largest-divisible-subset/submissions/869916670/)
+
 
 **Solution : -**
 
