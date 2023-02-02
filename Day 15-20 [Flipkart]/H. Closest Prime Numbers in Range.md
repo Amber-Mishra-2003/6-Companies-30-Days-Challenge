@@ -16,7 +16,6 @@ Return the positive integer array ans = [nums1, nums2]. If there are multiple pa
 A number greater than 1 is called prime if it is only divisible by 1 and itself.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/closest-prime-numbers-in-range/submissions/879306714/)
 
 **Solution :-**
 ```
