@@ -8,7 +8,6 @@ Problem :- Given an array of integers nums, sort the array in ascending order an
 You must solve the problem without using any built-in functions in O(nlog(n)) time complexity and with the smallest space complexity possible.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/sort-an-array/submissions/882702485/)
 
 **Solution :-**
 ```
