@@ -10,7 +10,6 @@ The rain starts to fall. At time t, the depth of the water everywhere is t. You 
 Return the least time until you can reach the bottom right square (n - 1, n - 1) if you start at the top left square (0, 0).
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/swim-in-rising-water/submissions/882714308/)
 
 **Solution :-**
 ```
