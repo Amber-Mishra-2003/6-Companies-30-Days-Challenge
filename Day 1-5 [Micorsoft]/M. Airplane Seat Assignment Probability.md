@@ -11,7 +11,6 @@ Problem :-n passengers board an airplane with exactly n seats. The first passeng
 Return the probability that the nth person gets his own seat. 
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/airplane-seat-assignment-probability/submissions/869957669/)
 
 **Solution :-**
 ```
