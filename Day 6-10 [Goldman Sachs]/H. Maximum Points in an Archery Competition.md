@@ -26,7 +26,6 @@ If there are multiple ways for Bob to earn the maximum total points, return any 
  
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/maximum-points-in-an-archery-competition/submissions/872491953/)
 
 **Solution :-**
 ```
