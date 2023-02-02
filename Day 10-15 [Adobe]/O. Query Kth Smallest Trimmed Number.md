@@ -22,7 +22,6 @@ Note:
   * Strings in nums may contain leading zeros.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/query-kth-smallest-trimmed-number/submissions/875930295/)
 
 **Solution :-**
 ```
