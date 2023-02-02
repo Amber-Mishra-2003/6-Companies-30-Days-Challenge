@@ -14,7 +14,6 @@ Pick a list of at most k distinct projects from given projects to maximize your 
 The answer is guaranteed to fit in a 32-bit signed integer.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/ipo/submissions/872494136/)
 
 **Solution :-**
 ```
