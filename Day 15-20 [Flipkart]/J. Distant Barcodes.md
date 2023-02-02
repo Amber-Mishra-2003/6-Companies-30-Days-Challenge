@@ -8,7 +8,6 @@ Problem :- In a warehouse, there is a row of barcodes, where the ith barcode is 
 Rearrange the barcodes so that no two adjacent barcodes are equal. You may return any answer, and it is guaranteed an answer exists.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/distant-barcodes/submissions/879311242/)
 
 **Solution :-**
 ```
