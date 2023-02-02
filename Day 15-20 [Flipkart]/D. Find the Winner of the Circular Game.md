@@ -20,7 +20,6 @@ Else, the last friend in the circle wins the game.
 Given the number of friends, n, and an integer k, return the winner of the game.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/find-the-winner-of-the-circular-game/submissions/879287033/)
 
 **Solution :-**
 ```
