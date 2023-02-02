@@ -7,7 +7,7 @@ Problem :- A string is called a happy prefix if is a non-empty prefix which is a
 Given a string s, return the longest happy prefix of s. Return an empty string "" if no such prefix exists.  
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/longest-happy-prefix/submissions/869955007/)
+
 
 **Solution :-**
 
