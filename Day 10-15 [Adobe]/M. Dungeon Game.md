@@ -18,7 +18,6 @@ Note that any room can contain threats or power-ups, even the first room the kni
  
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/dungeon-game/submissions/875926945/)
 
 **Solution :-**
 ```
