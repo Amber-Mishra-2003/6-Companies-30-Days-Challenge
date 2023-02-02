@@ -6,7 +6,6 @@ Problem Link :- [Link](https://leetcode.com/problems/check-if-a-string-contains-
 Problem :- Given a binary string s and an integer k, return true if every binary code of length k is a substring of s. Otherwise, return false.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/submissions/879317225/)
 
 **Solution :-**
 ```
