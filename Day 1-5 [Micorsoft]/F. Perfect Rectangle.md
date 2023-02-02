@@ -7,7 +7,7 @@ Problem : - Given an array rectangles where rectangles[i] = [xi, yi, ai, bi] rep
 Return true if all the rectangles together form an exact cover of a rectangular region.
 </h3>
 
-Solution Link : - [Link](https://leetcode.com/problems/perfect-rectangle/submissions/869922919/)
+
 
 **Solution :-**
 
