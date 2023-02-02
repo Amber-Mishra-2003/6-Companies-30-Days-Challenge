@@ -6,7 +6,6 @@ Problem Link :- [Link](https://leetcode.com/problems/k-th-smallest-in-lexicograp
 Problem :- Given two integers n and k, return the kth lexicographically smallest integer in the range [1, n].
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/submissions/875905096/)
 
 **Solution :-**
 ```
