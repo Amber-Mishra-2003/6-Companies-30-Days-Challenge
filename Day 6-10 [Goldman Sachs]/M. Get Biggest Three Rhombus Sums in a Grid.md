@@ -15,7 +15,6 @@ Return the biggest three distinct rhombus sums in the grid in descending order. 
 
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/submissions/872512668/)
 
 **Solution :-**
 ```
