@@ -8,7 +8,6 @@ Problem :- You are given a network of n nodes, labeled from 1 to n. You are also
 We will send a signal from a given node k. Return the minimum time it takes for all the n nodes to receive the signal. If it is impossible for all the n nodes to receive the signal, return -1.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/network-delay-time/submissions/882710674/)
 
 **Solution:-**
 ```
