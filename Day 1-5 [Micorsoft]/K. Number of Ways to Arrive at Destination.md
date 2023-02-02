@@ -13,7 +13,7 @@ Return the number of ways you can arrive at your destination in the shortest amo
 </h3> 
 
 
-Solution Link :- [Link](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/submissions/869952778/)
+
 
 **Solution :-**
 
