@@ -20,7 +20,6 @@ Given an array of integers piles where piles[i] is the number of coins in the it
 Return the maximum number of coins that you can have.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/submissions/882709776/)
 
 **Solution :-**
 ```
