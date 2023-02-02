@@ -6,7 +6,6 @@ Problem Link :- [Link](https://leetcode.com/problems/partition-to-k-equal-sum-su
 Problem : - Given an integer array nums and an integer k, return true if it is possible to divide this array into k non-empty subsets whose sums are all equal.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/submissions/879263094/)
 
 **Solution :-**
 ```
