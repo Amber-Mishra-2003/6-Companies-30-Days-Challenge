@@ -6,7 +6,6 @@ Problem Link :- [Link](https://leetcode.com/problems/max-points-on-a-line/)
 Problem :- Given an array of points where points[i] = [xi, yi] represents a point on the X-Y plane, return the maximum number of points that lie on the same straight line.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/max-points-on-a-line/submissions/872459295/)
 
 **Solution :-**
 
