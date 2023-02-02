@@ -14,7 +14,6 @@ Return the probability that Alice has n or fewer points.
 Answers within 10-5 of the actual answer are considered accepted.
 </h3>
 
-Solution Link:- [Link](https://leetcode.com/problems/new-21-game/submissions/879315124/)
 
 **Solution :-**
 ```
