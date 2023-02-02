@@ -28,7 +28,6 @@ Implement the TweetCounts class:
     * freq is one of "minute", "hour", or "day" representing a frequency of every minute, hour, or day respectively.
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/tweet-counts-per-frequency/submissions/886306481/)
 
 **Solution :-**
 ```
