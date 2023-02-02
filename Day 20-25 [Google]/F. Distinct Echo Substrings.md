@@ -6,7 +6,6 @@ Problem Link :- [Link](https://leetcode.com/problems/distinct-echo-substrings/)
 Problem :- Return the number of distinct non-empty substrings of text that can be written as the concatenation of some string with itself (i.e. it can be written as a + a where a is some string).
 </h3>
 
-Solution Link :- [Link](https://leetcode.com/problems/distinct-echo-substrings/submissions/882705812/)
 
 **Solution :-**
 ```
