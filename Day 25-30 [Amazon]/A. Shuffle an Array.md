@@ -14,7 +14,6 @@ Implement the Solution class:
   * int[] shuffle() Returns a random shuffling of the array.
 </h3>
 
-Solution Link:- [Link](https://leetcode.com/problems/shuffle-an-array/submissions/886300135/)
 
 **Solution :-**
 ```
